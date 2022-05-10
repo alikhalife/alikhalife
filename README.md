@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 # **Ohh, hello there!** 👋
 
+## **Bio**
+After earning a master's in Criminal Law and Criminology, I wished to take a dive into the tech world. <br>
+My desire to learn more about programming pushed me to pursue a bootcamp as a Web Dev @BeCode in  Charleroi, Belgium.
+
 ## 🏄‍♂️ **Tech** 
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">

@@ -39,13 +39,13 @@ Here are some ideas to get you started:
 
 ## 🤗 **About Me**
 
-- 🌱 I’m currently learning <a href="https://www.youtube.com/watch?v=6ERdu4k62wI">MVC Structure wwith PHP</a> and <a href="https://www.youtube.com/watch?v=SiBw7os-_zI">Object Oriented Programming</a>
-- 🥅 2022 Goals:
-    - Learn React 
-    - Work on a personal project
-    - Launch my personal Website
-    - 
-- 🤸 Fun fact: I'm into Calisthenics and Handstand
+- ### 🌱 I’m currently learning <a href="https://www.youtube.com/watch?v=6ERdu4k62wI">MVC Structure wwith PHP</a> and <a href="https://www.youtube.com/watch?v=SiBw7os-_zI">Object Oriented Programming</a> <br> <br>
+- ### 🥅 2022 Goals:
+    - #### Learn React 
+    - #### Work on a personal project
+    - #### Launch my personal Website <br> <br>
+  
+- ### 🤸 Fun fact: I'm into Calisthenics and Handstand
 
 
 <br><br>

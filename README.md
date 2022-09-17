@@ -49,7 +49,7 @@ My desire to learn more about programming pushed me to pursue a bootcamp as a We
     - #### Work on a personal project
     - #### Launch my personal Website <br> <br>
   
-   # Fun fact: I'm into Calisthenics and Handstand  🤸 
+   ###### Fun fact: I'm into Calisthenics and Handstand  🤸 
 
 
 <br><br>

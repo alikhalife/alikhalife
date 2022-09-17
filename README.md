@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # **Ohh, hello there!** 👋
 
-## **Bio**
+## 🌱 **Bio**
 After earning a master's in Criminal Law and Criminology, I wished to take a dive into the tech world. <br>
 My desire to learn more about programming pushed me to pursue a bootcamp as a Web Dev @BeCode in  Charleroi, Belgium.
 
@@ -41,10 +41,10 @@ My desire to learn more about programming pushed me to pursue a bootcamp as a We
 <br><br>
 ----
 
-## 🤗 **About Me**
+## 🥅 **About Me**
 
-- ### 🌱 I’m currently learning <a href="https://www.youtube.com/watch?v=6ERdu4k62wI">MVC Structure wwith PHP</a> and <a href="https://www.youtube.com/watch?v=SiBw7os-_zI">Object Oriented Programming</a> <br> <br>
-- ### 🥅 2022 Goals:
+- ### I’m currently learning <a href="https://www.youtube.com/watch?v=6ERdu4k62wI">MVC Structure wwith PHP</a> and <a href="https://www.youtube.com/watch?v=SiBw7os-_zI">Object Oriented Programming</a> <br> <br>
+- ### 2022 Goals:
     - #### Learn React 
     - #### Work on a personal project
     - #### Launch my personal Website <br> <br>
@@ -59,7 +59,7 @@ My desire to learn more about programming pushed me to pursue a bootcamp as a We
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alikhalife&layout=compact&theme=midnight-purple)](https://github.com/alikhalife/github-readme-stats)
 
 
-![Hafiz Haziq's GitHub stats](https://github-readme-stats.vercel.app/api?username=alikhalife&count_private=true&show_icons=true&theme=midnight-purple&hide=issues,contribs,prs)
+![Ali Khalife's GitHub stats](https://github-readme-stats.vercel.app/api?username=alikhalife&count_private=true&show_icons=true&theme=midnight-purple&hide=issues,contribs,prs)
 
 <br><br>
 

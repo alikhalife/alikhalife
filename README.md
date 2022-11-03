@@ -43,13 +43,12 @@ My desire to learn more about programming pushed me to pursue a bootcamp as a We
 
 ## 🥅 **About Me**
 
-- ### I’m currently learning <a href="https://www.youtube.com/watch?v=6ERdu4k62wI">MVC Structure with PHP</a> and <a href="https://www.youtube.com/watch?v=SiBw7os-_zI">Object Oriented Programming</a> <br> <br>
+- ### I’m currently reviewing <a href="https://javascript.info/">Javascript Fundamentals</a> and <a href="https://www.youtube.com/watch?v=SiBw7os-_zI">Object Oriented Programming</a> <br> <br>
 - ### 2022 Goals:
     - #### Learn React 
     - #### Work on a personal project
     - #### Launch my personal Website <br> <br>
-  
-   ###### Fun fact: I'm into Calisthenics and Handstand  🤸 
+ 
 
 
 <br><br>

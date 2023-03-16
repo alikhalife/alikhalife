@@ -33,7 +33,7 @@ I am currently working at @Fujitsu as Blockchain Developer.
 <img src="https://img.shields.io/badge/MySQL-78716C?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/React-006192?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Built%20with-React-blue.svg">
     
 
 <!-- <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">

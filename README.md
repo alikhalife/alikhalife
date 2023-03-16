@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ## 🌱 **Bio**
 After earning a master's in Criminal Law and Criminology, I wished to take a dive into the tech world. <br>
 My desire to learn more about programming pushed me to pursue a bootcamp as a Web Dev @BeCode in  Charleroi, Belgium.
+I am currently working at @Fujitsu as Blockchain Developer.
 
 ## 🏄‍♂️ **Tech** 
 <div align="center">
@@ -49,10 +50,12 @@ My desire to learn more about programming pushed me to pursue a bootcamp as a We
     - #### Work on a personal project
     - #### Launch my personal Website <br> <br>
  
--->
+
 
 <br><br>
 ----
+
+
 
 ## 📈 **Github Stat** 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alikhalife&layout=compact&theme=midnight-purple)](https://github.com/alikhalife/github-readme-stats)
@@ -61,6 +64,7 @@ My desire to learn more about programming pushed me to pursue a bootcamp as a We
 ![Ali Khalife's GitHub stats](https://github-readme-stats.vercel.app/api?username=alikhalife&count_private=true&show_icons=true&theme=midnight-purple&hide=issues,contribs,prs)
 
 <br><br>
+-->
 
 ## 📫 **Contact Me**
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=alikhalife05@gmail.com">

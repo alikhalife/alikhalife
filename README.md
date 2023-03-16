@@ -41,7 +41,7 @@ My desire to learn more about programming pushed me to pursue a bootcamp as a We
 <br><br>
 ----
 
-## 🥅 **About Me**
+<!-- ## 🥅 **About Me**
 
 - ### I’m currently reviewing <a href="https://javascript.info/">Javascript Fundamentals</a> and <a href="https://www.youtube.com/watch?v=SiBw7os-_zI">Object Oriented Programming</a> <br> <br>
 - ### 2022 Goals:
@@ -49,7 +49,7 @@ My desire to learn more about programming pushed me to pursue a bootcamp as a We
     - #### Work on a personal project
     - #### Launch my personal Website <br> <br>
  
-
+-->
 
 <br><br>
 ----
